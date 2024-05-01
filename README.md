@@ -1,1 +1,1 @@
-# Edu-Tech-Clone-Website-
+# Edu-Tech-Clone-Website
